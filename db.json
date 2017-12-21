@@ -2,11 +2,11 @@
     "videos": [
         {
             "id": "1",
-            "url": "http://via.placeholder.com/350x350",
+            "url": "https://drive.google.com/file/d/1Aea081wcoAOZMFTDjRJ-X-iwnYuIsm2N/view",
             "title": "Video of the Opera House",
             "description": "Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua.",
             "publisher": "Michael Baßler",
-            "publisherPhoto": "https://randomuser.me/api/portraits/thumb/men/22.jpg",
+            "publisherPhoto": "https://drive.google.com/file/d/1Aea081wcoAOZMFTDjRJ-X-iwnYuIsm2N/view",
             "location": "Sydney",
             "date": "",
             "views": "1000",
@@ -15,11 +15,11 @@
         },
         {
             "id": "2",
-            "url": "http://via.placeholder.com/350x350",
+            "url": "https://drive.google.com/file/d/1Aea081wcoAOZMFTDjRJ-X-iwnYuIsm2N/view",
             "title": "Video of the Opera House",
             "description": "Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua.",
             "publisher": "Michael Baßler",
-            "publisherPhoto": "https://randomuser.me/api/portraits/thumb/men/22.jpg",
+            "publisherPhoto": "https://drive.google.com/file/d/1Aea081wcoAOZMFTDjRJ-X-iwnYuIsm2N/view",
             "location": "Sydney",
             "date": "",
             "views": "1000",
@@ -28,7 +28,7 @@
         },
         {
             "id": "3",
-            "url": "http://via.placeholder.com/350x350",
+            "url": "https://drive.google.com/file/d/1Aea081wcoAOZMFTDjRJ-X-iwnYuIsm2N/view",
             "title": "Video of the Opera House",
             "description": "Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua.",
             "publisher": "Michael Baßler",
