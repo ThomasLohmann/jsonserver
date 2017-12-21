@@ -2,7 +2,7 @@
     "videos": [
         {
             "id": "1",
-            "url": "https://drive.google.com/file/d/1Aea081wcoAOZMFTDjRJ-X-iwnYuIsm2N/view?usp=sharing",
+            "url": "gs://abacus-10.appspot.com/Opera.jpg",
             "title": "Video of the Opera House",
             "description": "Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua.",
             "publisher": "Michael Baßler",
@@ -15,7 +15,7 @@
         },
         {
             "id": "2",
-            "url": "http://via.placeholder.com/350x350",
+            "url": "https://firebasestorage.googleapis.com/v0/b/abacus-10.appspot.com/o/Opera.jpg?alt=media&token=12fe0d98-7383-4c4c-84a7-32c2566f2966",
             "title": "Video of the Opera House",
             "description": "Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua.",
             "publisher": "Michael Baßler",
