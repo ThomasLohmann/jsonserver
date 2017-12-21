@@ -2,11 +2,11 @@
     "videos": [
         {
             "id": "1",
-            "url": "https://drive.google.com/file/d/1Aea081wcoAOZMFTDjRJ-X-iwnYuIsm2N/view",
+            "url": "https://drive.google.com/file/d/1Aea081wcoAOZMFTDjRJ-X-iwnYuIsm2N",
             "title": "Video of the Opera House",
             "description": "Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua.",
             "publisher": "Michael Baßler",
-            "publisherPhoto": "https://drive.google.com/file/d/1Aea081wcoAOZMFTDjRJ-X-iwnYuIsm2N/view",
+            "publisherPhoto": "https://randomuser.me/api/portraits/thumb/men/22.jpg",
             "location": "Sydney",
             "date": "",
             "views": "1000",
@@ -15,11 +15,11 @@
         },
         {
             "id": "2",
-            "url": "https://drive.google.com/file/d/1Aea081wcoAOZMFTDjRJ-X-iwnYuIsm2N/view",
+            "url": "http://via.placeholder.com/350x350",
             "title": "Video of the Opera House",
             "description": "Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua.",
             "publisher": "Michael Baßler",
-            "publisherPhoto": "https://drive.google.com/file/d/1Aea081wcoAOZMFTDjRJ-X-iwnYuIsm2N/view",
+            "publisherPhoto": "https://randomuser.me/api/portraits/thumb/men/22.jpg",
             "location": "Sydney",
             "date": "",
             "views": "1000",
@@ -28,7 +28,7 @@
         },
         {
             "id": "3",
-            "url": "https://drive.google.com/file/d/1Aea081wcoAOZMFTDjRJ-X-iwnYuIsm2N/view",
+            "url": "http://via.placeholder.com/350x350",
             "title": "Video of the Opera House",
             "description": "Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua.",
             "publisher": "Michael Baßler",
